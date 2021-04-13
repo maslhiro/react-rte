@@ -3,12 +3,12 @@
   border: 1px solid #ddd;
   border-radius: 3px;
   /* font-family: 'Georgia', serif; */
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .editor {
   cursor: text;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 :global(.text-align--center .public-DraftStyleDefault-ltr) {
@@ -39,13 +39,13 @@
 }
 
 .editor .paragraph {
-  margin: 14px 0;
+  margin: 12px 0;
 }
 
 /* Consecutive code blocks are nested inside a single parent <pre> (like <li>
   inside <ul>). Unstyle the parent and style the children. */
 .editor pre {
-  margin: 14px 0;
+  margin: 12px 0;
 }
 
 .editor .codeBlock {
