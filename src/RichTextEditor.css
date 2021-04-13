@@ -3,12 +3,12 @@
   border: 1px solid #ddd;
   border-radius: 3px;
   /* font-family: 'Georgia', serif; */
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .editor {
   cursor: text;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 :global(.text-align--center .public-DraftStyleDefault-ltr) {
@@ -51,7 +51,7 @@
 .editor .codeBlock {
   background-color: #f3f3f3;
   /* font-family: "Inconsolata", "Menlo", "Consolas", monospace; */
-  font-size: 16px;
+  font-size: 14px;
   /* This should collapse with the margin around the parent <pre>. */
   margin: 14px 0;
   padding: 20px;
