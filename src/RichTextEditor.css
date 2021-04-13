@@ -3,12 +3,12 @@
   border: 1px solid #ddd;
   border-radius: 3px;
   /* font-family: 'Georgia', serif; */
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .editor {
   cursor: text;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 :global(.text-align--center .public-DraftStyleDefault-ltr) {
