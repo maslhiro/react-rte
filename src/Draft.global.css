@@ -24,6 +24,7 @@
   border: 1px solid transparent;
   position: relative;
   z-index: 1;
+  height: 400px;
 }
 
 .public-DraftEditor-content {
@@ -62,6 +63,7 @@
   right: 0;
   text-align: right;
 }
+
 /**
  * @providesModule DraftEditorPlaceholder
  */
@@ -79,6 +81,7 @@
 .DraftEditorPlaceholder-hidden {
   display: none;
 }
+
 /**
  * @providesModule DraftStyleDefault
  */
